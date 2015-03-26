@@ -2,7 +2,7 @@ Il presente repository è utilizzato per le prove di programmazione da parte dei
 
 # Direttive comuni e modalità di consegna
 
-E' stata fornita una applicazione dummy in Laravel 5 che risponde esclusivamente alla chiamata `GET /helloworld`. Si prega di estendere l'applicazione, seguendo le direttive indicate nell'esercizio specifico. La soluzione dovrà effettuare anche la validazione dell'input e contenere le classi di test. Non è prevista una deadline per la consegna.
+E' stata fornita una applicazione dummy in Symfony 2 che risponde esclusivamente alla chiamata `GET /helloworld`. Si prega di estendere l'applicazione, seguendo le direttive indicate nell'esercizio specifico. La soluzione dovrà effettuare anche la validazione dell'input e contenere le classi di test. Non è prevista una deadline per la consegna.
 
 1. Effettuare un fork del presente repository;
 1. Eseguire l'esercizio seguendo la descrizione e le consegne indicate;
@@ -35,9 +35,10 @@ Le chiamate devono essere in grado di operare con JSON, sia in input che in outp
       ],
       "richiedenti" : [
         {
-        	"id"            : Integer,
-        	"data"          : String (ISO 8601),
-        	"valore_totale" : Number,
+        	"id"      : Integer,
+            "nome"    : String,
+        	"data"    : String (ISO 8601),
+        	"budget"  : Number,
         	"oggetti" : [
         	  {
       	    	"id"       : Integer,
