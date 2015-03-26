@@ -2,12 +2,12 @@ Il presente repository è utilizzato per le prove di programmazione da parte dei
 
 # Direttive comuni e modalità di consegna
 
-E' stata fornita una applicazione dummy in Laravel 5 che risponde esclusivamente alla chiamata `GET /helloworld`. Si prega di estendere l'applicazione, seguendo le direttive indicate nell'esercizio specifico. La soluzione dovrà effettuare anche la validazione dell'input e contenere le classi di test.
+E' stata fornita una applicazione dummy in Laravel 5 che risponde esclusivamente alla chiamata `GET /helloworld`. Si prega di estendere l'applicazione, seguendo le direttive indicate nell'esercizio specifico. La soluzione dovrà effettuare anche la validazione dell'input e contenere le classi di test. Non è prevista una deadline per la consegna.
 
 1. Effettuare un fork del presente repository;
 1. Eseguire l'esercizio seguendo la descrizione e le consegne indicate;
 1. Se si hanno delle domande, si prega di aprire un'issue sul repository stesso;
-1. Al termine delle modifiche (e comunque non oltre le ore 18:00 CET del giorno nel quale si è ricevuto l'esercizio) effettuare una Pull Request.
+1. Al termine delle modifiche effettuare una Pull Request.
 
 # Esercizio A
 Si prega di estendere l'applicazione, aggiungendo la gestione di almeno altre tre chiamate delle quattro descritte di seguito. Allo sviluppatore è lasciata la libertà di definire la struttura delle chiamate.
