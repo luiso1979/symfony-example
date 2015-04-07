@@ -1,3 +1,5 @@
+
+
 Il presente repository è utilizzato per le prove di programmazione da parte dei candidati per le posizioni aperte di Kopjra Srl.
 
 # Direttive comuni e modalità di consegna
